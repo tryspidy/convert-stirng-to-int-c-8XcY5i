@@ -1,0 +1,1 @@
+int thing = std::stoi(string);
